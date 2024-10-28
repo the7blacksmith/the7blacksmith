@@ -1,4 +1,4 @@
-![blacksmith](/blacksmith_sign.tiff)
+
 
 # the🔨blacksmith
 
